@@ -17,4 +17,8 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
