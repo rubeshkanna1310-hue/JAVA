@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/1920-build-array-from-permutation) |
@@ -26,4 +27,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
