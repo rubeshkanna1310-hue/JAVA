@@ -29,9 +29,22 @@
 | ------- |
 | [0001-two-sum](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
