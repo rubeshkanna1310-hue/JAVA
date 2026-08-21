@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0771-jewels-and-stones) |
 ## Queue
 |  |
 | ------- |
