@@ -39,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0771-jewels-and-stones) |
 ## Queue
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rubeshkanna1310-hue/JAVA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
